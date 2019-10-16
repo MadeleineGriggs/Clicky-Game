@@ -1,4 +1,5 @@
 .imageCard {
-    margin: 1rem;
-    border: 1px solid gray;
+    margin: 1.5rem;
+    border: 3px solid  rgba(203, 55, 5, 1);
+    border-radius: 0.25rem;
 }

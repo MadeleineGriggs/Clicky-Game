@@ -1,0 +1,33 @@
+.header {
+
+}
+
+.title {
+    text-align: center;
+    font-size: 4rem;
+    color: #fff8f0;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    background: rgba(203, 55, 5, 1);
+    font-family: 'Abril Fatface', cursive;
+}
+
+.instructions {
+    margin: 0 auto;
+    width: 70vw;
+    margin-top: 1.5rem;
+    font-size: 1.5rem;
+    color: #822007;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+}
+
+.scores {
+    margin: 0 auto;
+    width: 70vw;
+    font-size: 2rem;
+    padding-bottom: 1rem;
+    color: #822007;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+}
